@@ -1,0 +1,16 @@
+{
+    "name": "NCMBTwitter.Editor",
+    "references": [
+        "NCMBTwitter"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
